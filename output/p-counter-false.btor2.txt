@@ -1,0 +1,13 @@
+the file is : easycase/p-counter-false.btor2
+#0
+0 000 internal@0
+@0
+0 0 clk@0
+1 1 in@0
+@1
+0 0 clk@1
+1 1 in@1
+@2
+0 0 clk@2
+1 0 in@2
+.

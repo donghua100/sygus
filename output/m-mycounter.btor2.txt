@@ -1,0 +1,14 @@
+the file is : easycase/m-mycounter.btor2
+#0
+0 000 cnt@0
+1 0 state8@0
+2 0 state10@0
+@0
+0 0 clk@0
+@1
+0 0 clk@1
+@2
+0 0 clk@2
+@3
+0 0 clk@3
+.

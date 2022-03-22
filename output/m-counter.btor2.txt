@@ -1,0 +1,2 @@
+the file is : easycase/m-counter.btor2
+no output
